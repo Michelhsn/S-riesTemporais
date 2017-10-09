@@ -1,1 +1,1 @@
-# S-riesTemporais
+# SériesTemporais
