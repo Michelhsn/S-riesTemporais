@@ -1,3 +1,3 @@
-# SériesTemporais
+﻿# SériesTemporais
 
-Estudo de séries temporais com R e Python
+Estudo de séries temporais com R e Python.
